@@ -1,0 +1,14 @@
+/*****************Welcome to my project*******************/
+
+This project is based on: * c++ and object-oriented concept
+                          * Image processing using opencv
+
+It allows to manage a library of descriptors (Information concerning the images to be treated) and a library of images (To apply filters, etc...)
+
+It allows the user to identify himself: *Level 2 user (root) /**** By default Login= root && Pasword==root
+                                        *Level 1 user (Data access without change or processing permission) /***By default Login=user_1 &&
+                                                                                                              Pasword==user_1***/
+                                                                        
+
+
+You will find attached in the folder named example some screen shots about the application processing.

@@ -1,0 +1,79 @@
+<?xml-stylesheet type="text/xsl" href="fin.xsl"?>
+<Descripteur>
+
+   
+
+<DESC ID="1">
+
+      
+<TITRE>Grand Canyon, Arizona, USA</TITRE>
+      
+<AUTEUR>MICHAEL NICHOLS</AUTEUR>
+
+<EXTENSION>.JPG</EXTENSION>
+<TAILLE>49</TAILLE>  
+<COUT>88</COUT>
+<SIGNATURE>3</SIGNATURE>
+ 
+</DESC>
+
+
+   
+<DESC ID="2">      
+      
+<TITRE>Pink flamingos feeding their young</TITRE>
+      
+<AUTEUR>ALEJANDRO PRIETO ROJAS</AUTEUR>
+
+<EXTENSION>.JPG</EXTENSION>
+<TAILLE>61</TAILLE> 
+<COUT>74</COUT>  
+<SIGNATURE>3</SIGNATURE> 
+</DESC>
+
+
+   
+<DESC ID="3">
+      
+<TITRE>Super Climber</TITRE>
+      
+<AUTEUR>JIMMY CHIN</AUTEUR>
+ 
+<EXTENSION>.JPG</EXTENSION>  
+<TAILLE>90</TAILLE>  
+ <COUT>124</COUT>
+<SIGNATURE>2</SIGNATURE>
+</DESC>
+
+
+
+<DESC ID="4">
+      
+<TITRE>Tiger Shark</TITRE>
+      
+<AUTEUR>BRIAN SKERRY</AUTEUR>
+  
+<EXTENSION>.JPG</EXTENSION> 
+<TAILLE>35</TAILLE>  
+ <COUT>65</COUT>
+<SIGNATURE>3</SIGNATURE>
+</DESC>
+
+
+
+<DESC ID="5">
+      
+<TITRE>GERD LUDWIG</TITRE>
+      
+<AUTEUR>Roof Top</AUTEUR>
+ 
+<EXTENSION>.JPG</EXTENSION>  
+<TAILLE>309</TAILLE> 
+<COUT>180</COUT> 
+<SIGNATURE>2</SIGNATURE>
+</DESC>
+
+
+
+
+</Descripteur>
